@@ -1,17 +1,11 @@
 package com.devsuperior.dscatalog.entities;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
-
 import java.util.Objects;
 
-@Entity
-@Table(name = "tb_category")
 public class Category {
 
     private Long id;
     private String name;
-
     public Category() {
 
     }
