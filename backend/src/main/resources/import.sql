@@ -1,3 +1,18 @@
 INSERT INTO tb_category(name, created_At) VALUES ('Books', NOW());
 INSERT INTO tb_category(name, created_At) VALUES ('Electronics', NOW());
 INSERT INTO tb_category(name, created_At) VALUES ('Computers', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Tablet', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Movie', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Photograph', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Theatre', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Art', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Collections', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Books 2', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Electronics 2', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Computers2 ', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Books 3', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Electronics 3', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Computers 3', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Books 4', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Electronics 4', NOW());
+INSERT INTO tb_category(name, created_At) VALUES ('Computers 4', NOW());
